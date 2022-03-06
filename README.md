@@ -1,0 +1,1 @@
+The repository for homework 1 is called "1-Code-Refactor". This folder contains the "index.html", "style.css", assets and "README.md" files for the
