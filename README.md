@@ -1,1 +1,4 @@
-The repository for homework 1 is called "1-Code-Refactor". This folder contains the "index.html", "style.css", assets and "README.md" files for the
+The repository for homework 1 is called "1-Code-Refactor". This folder contains the "index.html", "style.css", assets and "README.md" files for Horiseon's website.
+The file was modified to be cleaner and more organized tham the original file. Some of the changes made were to make the code easier to read, like taking the header out of the body and making it an independent section. Also, images were missing alt text so it was added.
+The SEO part of the nav bar was not working and it was fixed to take the user to the correct part of the website.
+Finally, the title was changed to "Horiseon" to make it describe the website.
